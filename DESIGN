@@ -1,0 +1,40 @@
+System 
+	Economy
+	Star
+	Planets
+	Hazards
+		Asteroid belts
+		Mines
+		Comets
+
+Mission
+	Targets
+		Moving targets display as cone of uncertainty
+	Time limit
+	Bonus
+
+Blip
+ Target out of sensor range
+
+Target
+ Hidden 
+  Invisible unless pinged; ping reveals for a few seconds
+ Moving
+		Straight line or curve? 
+	Type
+		Ship type - depends on economy, random
+	 Treasure - High score (bonus if hidden, defended if not)
+
+  Salvage - Junk, low score
+  Rescue - High score, but timed?
+ 
+Sensor ping (too much like SS?)
+	Ex
+Enemy
+Schedule
+ Deadline
+ Entry
+Score
+Capacity
+Base
+
